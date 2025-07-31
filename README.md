@@ -7,7 +7,7 @@
 My vision is freedom and growth for everyone.
   </p>
 
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=ziadiparast&show_icons=true&theme=radical&hide_rank=true&hide_title=true&rank_icon=github"> 
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=azadsoul&show_icons=true&theme=radical&hide_rank=true&hide_title=true&rank_icon=github"> 
 </div>
 
 <!---
